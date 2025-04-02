@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'modelserial_app',
     'api_view_app',
     'generic',
+    'concrete',
+    'viewset_app',
 ]
 
 MIDDLEWARE = [
